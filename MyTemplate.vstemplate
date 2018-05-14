@@ -1,0 +1,26 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
+  <TemplateData>
+    <Name>Xamarin Native App (JXUG) (PCL)</Name>
+    <Description>Xamarin Native app template using PCL</Description>
+    <ProjectType>CSharp</ProjectType>
+    <Icon>__TemplateIcon.ico</Icon>
+    <DefaultName>XNPCLApp</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent PreferedSolusionConfigration="Debug|Any CPU">
+    <ProjectCollection>
+      <ProjectTemplateLink ProjectName="$safeprojectname$" CopyParameters="true">
+        XNPCLApp\MyTemplate.vstemplate
+      </ProjectTemplateLink>
+      <ProjectTemplateLink ProjectName="$safeprojectname$.Droid" CopyParameters="true">
+        XNPCLApp.Droid\MyTemplate.vstemplate
+      </ProjectTemplateLink>
+      <ProjectTemplateLink ProjectName="$safeprojectname$.iOS" CopyParameters="true">
+        XNPCLApp.iOS\MyTemplate.vstemplate
+      </ProjectTemplateLink>
+      <ProjectTemplateLink ProjectName="$safeprojectname$.UWP" CopyParameters="true">
+        XNPCLApp.UWP\MyTemplate.vstemplate
+      </ProjectTemplateLink>
+    </ProjectCollection>
+  </TemplateContent>
+</VSTemplate>
