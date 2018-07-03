@@ -4,7 +4,8 @@ This is a Xamarin project template for Xamarin Native cross-platform app, in whi
 
 # How to Install
 
-T.B.D
+- Please download the latest version of VSIX file form release page.
+- Double click the VSIX file and install it.
 
 # How to Use
 
