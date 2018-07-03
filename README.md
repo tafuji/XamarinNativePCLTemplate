@@ -1,6 +1,6 @@
 # Xamarin Project Template
 
-This is a Xamarin project template for Xamarin Native cross-platform app, in which Portable Class Library (PCL) is used as core component of the app by Japan Xamarin User Group.
+This is a Xamarin project template for Xamarin Native cross-platform app, in which Portable Class Library (PCL) is used as core component of the app. It is created by Japan Xamarin User Group.
 
 # How to Install
 
