@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Yoshito Tabuchi
+Copyright (c) 2018 Takeshi Fujimoto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The following files:
+
+- \Vsix\Template\Template.vstemplate
+- \Vsix\Template\__TemplateIcon.ico
+-  All files in \Vsix\Template\Droid
+-  All files in \Vsix\Template\iOS
+-  All files in \Vsix\Template\PCL
+-  All files in \Vsix\Template\UWP
+
+Copyright (c) 2018 Yoshito Tabuchi
+
+https://github.com/ytabuchi/XamarinNativePCLTemplate/blob/master/LICENSE
