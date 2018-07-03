@@ -11,7 +11,7 @@ This is a Xamarin project template for Xamarin Native cross-platform app, in whi
 
 Select `New Project > Visual C# > Cross-Platform > "Xamarin Native App (JXUG)(PCL)"` and `OK`
 
-![New Project]()
+![New Project](https://raw.githubusercontent.com/tafuji/XamarinNativePCLTemplate/develop-vsix/Screenshots/NewProject.png)
 
 # Acknowledgement
 
